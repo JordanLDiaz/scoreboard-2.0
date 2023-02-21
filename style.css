@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4273f2f5-90b8-4ca7-b7e2-383f943800c8/dcvjs5n-1368757b-645d-4ebf-8b75-576c7f4702fa.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyNzNmMmY1LTkwYjgtNGNhNy1iN2UyLTM4M2Y5NDM4MDBjOFwvZGN2anM1bi0xMzY4NzU3Yi02NDVkLTRlYmYtOGI3NS01NzZjN2Y0NzAyZmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4xI1-gUySFp-MnTZ_lWFpBxp8052DumSORB9URI7i34);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-card {
+  background-color: rgba(248, 150, 146, 0.452);
+  border: 2px solid rgb(248, 150, 146);
+}
+
+.point-card {
+  background-color: rgba(248, 150, 146, 0.596);
+  border: 2px solid rgb(248, 150, 146);
+}
